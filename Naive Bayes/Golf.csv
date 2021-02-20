@@ -1,0 +1,17 @@
+﻿Outlook,Temperature,Humidity,Wind,Play_Golf
+Rainy,Hot,High,FALSE,NO
+Rainy,Hot,High,TRUE,NO
+OverCast,Hot,High,FALSE,YES
+Sunny,Mild,High,FALSE,YES
+Sunny,Cool,Normal,FALSE,YES
+Sunny,Cool,Normal,TRUE,NO
+OverCast,Cool,Normal,TRUE,YES
+Rainy,Mild,High,FALSE,NO
+Rainy,Cool,Normal,FALSE,YES
+Sunny,Mild,Normal,FALSE,YES
+Rainy,Mild,Normal,TRUE,YES
+OverCast,Mild,High,TRUE,YES
+OverCast,Hot,Normal,FALSE,YES
+Sunny,Mild,High,TRUE,NO
+OverCast,Hot,High,TRUE,NO
+OverCast,Hot,High,TRUE,YES
